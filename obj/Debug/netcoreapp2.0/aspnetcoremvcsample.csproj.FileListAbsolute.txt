@@ -1,0 +1,11 @@
+C:\Data\Projects\aspnetcoremvcsample\bin\Debug\netcoreapp2.0\aspnetcoremvcsample.deps.json
+C:\Data\Projects\aspnetcoremvcsample\bin\Debug\netcoreapp2.0\aspnetcoremvcsample.runtimeconfig.json
+C:\Data\Projects\aspnetcoremvcsample\bin\Debug\netcoreapp2.0\aspnetcoremvcsample.runtimeconfig.dev.json
+C:\Data\Projects\aspnetcoremvcsample\bin\Debug\netcoreapp2.0\aspnetcoremvcsample.dll
+C:\Data\Projects\aspnetcoremvcsample\bin\Debug\netcoreapp2.0\aspnetcoremvcsample.pdb
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.csprojResolveAssemblyReference.cache
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.csproj.CoreCompileInputs.cache
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.AssemblyInfoInputs.cache
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.AssemblyInfo.cs
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.dll
+C:\Data\Projects\aspnetcoremvcsample\obj\Debug\netcoreapp2.0\aspnetcoremvcsample.pdb
